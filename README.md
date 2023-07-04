@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I'm currently working on my personal portfolio website.<br>🌱 I'm currently learning React.<br><br>Favorite Quote: ❝ The future is what me make it. ❞
 
 
