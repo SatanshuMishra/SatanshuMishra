@@ -1,6 +1,7 @@
 # About Me:
-🔭 I'm currently honing my C# skills.<br>🌱 I'm currently learning React.<br><br>Favorite Quote: ❝ The future is what me make it. ❞
+🔭 I'm currently honing my C# skills.<br><br><br>Favorite Quote: ❝ The future is what me make it. ❞
 
+<!-- 🌱 I'm currently learning C#. -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satanshumishra) 
