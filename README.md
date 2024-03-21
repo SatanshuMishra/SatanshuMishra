@@ -52,6 +52,11 @@ An enthusiastic and results-oriented **Full Stack Software Developer**, I posses
 - Portfolio: [www.satanshu.tech](https://www.satanshu.tech/)
 - Email: [satanshumishra@outlook.com](mailto:satanshumishra@outlook.com)
 
+### Current Contributions
+
+1. Astro<br>
+[![@SatanshuMishra Astro contributions](https://astro.badg.es/v2/contributor/SatanshuMishra.svg)](https://astro.badg.es/contributor/SatanshuMishra/)
+
 Feel free to reach out if you're interested in collaboration, have questions, or just want to chat about all things tech!
 
 > "The future is what we make it." 🙂
