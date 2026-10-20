@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="184" viewBox="0 0 412 184" role="img" aria-labelledby="t d">
+<title id="t">lighthouse</title>
+<desc id="d">lighthouse: Runs the product like a person would and proves the branch works. Built with Python.</desc>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #1f2328; }
+.mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+.muted { fill: #59636e; }
+.comet { animation: orbit 7s linear 3.4s 2; }
+@keyframes orbit { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -1150; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="1" y="1" width="410" height="182" rx="14" fill="#f6f8fa" stroke="#d1d9e0"/>
+<rect class="comet" x="1" y="1" width="410" height="182" rx="14" fill="none" stroke="#0969da" stroke-width="1.5" stroke-dasharray="70 1080" stroke-linecap="round" opacity=".9"/>
+<text x="24" y="38" class="mono muted" font-size="13">03 / verify</text>
+<text x="24" y="74" font-size="26" font-weight="650">lighthouse</text>
+<text x="24" y="106" font-size="17" class="muted">Runs the product like a person would</text>
+<text x="24" y="129" font-size="17" class="muted">and proves the branch works.</text>
+<circle cx="30" cy="158" r="6" fill="#3572A5"/>
+<text x="43" y="163" font-size="14" class="muted">Python</text>
+</svg>
