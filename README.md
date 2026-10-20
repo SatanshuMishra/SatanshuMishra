@@ -1,62 +1,72 @@
-<div id="user-content-toc">
-  <ul>
-    <summary><h1 style="display: inline-block; font-weight: black;">Hi there! 👋 I'm Satanshu Mishra</h1></summary>
-  </ul>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatanshuMishra/SatanshuMishra/main/assets/hero-dark.svg">
+  <img src="https://raw.githubusercontent.com/SatanshuMishra/SatanshuMishra/main/assets/hero-light.svg" width="840" alt="Hello, I'm Satanshu Mishra. Full-stack developer. Open-source AI tools. Working toward a career in cybersecurity.">
+</picture>
 
-An enthusiastic and results-oriented **Full Stack Software Developer**, I possess a robust command over both frontend and backend technologies. My mission is to craft sleek, scalable, and user-centric applications that bring about meaningful change. With a fervent passion for innovation, I'm driven to contribute my skills to the digital realm and leave a positive mark. 🚀
+Programming gives one person the power to build almost anything. I love using that power to solve real problems, and seeing it make someone's work or life better.
 
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block; font-weight: black;">🔧 Technologies & Tools</h2></summary>
-  </ul>
-</div>
+In my own time I build open-source AI tools. Long term, I'm working toward a career in cybersecurity: the same power can be used to steal and destroy, and I want to be one of the people protecting others from it.
 
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+## What I'm building
 
-### Backend
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+Claude Code plugins that take a change from a rough idea to a pull request a person can review.
 
-### Full Stack
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+<p>
+<a href="https://github.com/SatanshuMishra/interphase">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatanshuMishra/SatanshuMishra/main/assets/card-interphase-dark.svg">
+    <img src="https://raw.githubusercontent.com/SatanshuMishra/SatanshuMishra/main/assets/card-interphase-light.svg" width="49%" alt="interphase: interviews you about a change, then writes the spec and its tests. Python.">
+  </picture>
+</a>
+<a href="https://github.com/SatanshuMishra/mitosis">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatanshuMishra/SatanshuMishra/main/assets/card-mitosis-dark.svg">
+    <img src="https://raw.githubusercontent.com/SatanshuMishra/SatanshuMishra/main/assets/card-mitosis-light.svg" width="49%" alt="mitosis: coding agents build it in parallel, one pull request per piece. Python.">
+  </picture>
+</a>
+</p>
+<p>
+<a href="https://github.com/SatanshuMishra/lighthouse">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatanshuMishra/SatanshuMishra/main/assets/card-lighthouse-dark.svg">
+    <img src="https://raw.githubusercontent.com/SatanshuMishra/SatanshuMishra/main/assets/card-lighthouse-light.svg" width="49%" alt="lighthouse: runs the product like a person would and proves the branch works. Python.">
+  </picture>
+</a>
+<a href="https://github.com/SatanshuMishra/logbook">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatanshuMishra/SatanshuMishra/main/assets/card-logbook-dark.svg">
+    <img src="https://raw.githubusercontent.com/SatanshuMishra/SatanshuMishra/main/assets/card-logbook-light.svg" width="49%" alt="logbook: saves where the work stands in git, so a new session picks it back up. TypeScript.">
+  </picture>
+</a>
+</p>
 
-### Database Management Systems
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+## How they fit together
 
-### Deployment
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
+Each one works on its own. Together, they carry a change from start to finish.
 
-### Design & Prototyping
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatanshuMishra/SatanshuMishra/main/assets/pipeline-dark.svg">
+  <img src="https://raw.githubusercontent.com/SatanshuMishra/SatanshuMishra/main/assets/pipeline-light.svg" width="840" alt="An idea goes to interphase, which writes the spec, then to mitosis, which builds it in parallel, then to lighthouse, which proves it works, and ends as a pull request a person reviews. After each step, logbook saves a git commit of where the work stands.">
+</picture>
 
-### Data Analysis
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## Other work
 
-### Desktop Application Libraries
-![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+- **[uLearn](https://github.com/SatanshuMishra/uLearn)**, my Honours thesis at UBC Okanagan: an adaptive learning system that uses machine learning to gauge what a student understands and serve the questions that help next. It ran in a first-year programming course.
+- **[iGEM DNA calculator](https://github.com/SatanshuMishra/iGEM-dna-calculator)**, a React prototype I built while leading website and software development for the Okanagan iGEM club. [Try it](https://i-gem-dna-calculator.vercel.app/).
 
-### Package Managers
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+## What I work with
 
-### Editors
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) 
+`TypeScript` `React` `Next.js` `Node.js` `PostgreSQL` `Supabase` `Python` `FastAPI` `PHP` `Laravel` `Docker` `AWS`
 
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block; font-weight: black;">📫 Let's Connect!</h2></summary>
-  </ul>
-</div>
+## Off the keyboard
 
-- LinkedIn: [Satanshu Mishra](https://www.linkedin.com/in/satanshumishra/)
-- Portfolio: [www.satanshu.tech](https://www.satanshu.tech/)
-- Email: [satanshumishra@outlook.com](mailto:satanshumishra@outlook.com)
+Star Trek, hiking, chess, badminton and a good mystery game.
 
-### Current Contributions
+## Get in touch
 
-1. Astro<br>
-[![@SatanshuMishra Astro contributions](https://astro.badg.es/v2/contributor/SatanshuMishra.svg)](https://astro.badg.es/contributor/SatanshuMishra/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatanshuMishra/SatanshuMishra/main/assets/terminal-dark.svg">
+  <img src="https://raw.githubusercontent.com/SatanshuMishra/SatanshuMishra/main/assets/terminal-light.svg" width="560" alt="A terminal runs say-hi and prints linkedin.com/in/satanshumishra and satanshumishra@outlook.com.">
+</picture>
 
-Feel free to reach out if you're interested in collaboration, have questions, or just want to chat about all things tech!
-
-> "The future is what we make it." 🙂
+[LinkedIn](https://www.linkedin.com/in/satanshumishra/) · [Email](mailto:satanshumishra@outlook.com)

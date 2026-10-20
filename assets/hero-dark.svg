@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="236" viewBox="0 0 840 236" role="img" aria-labelledby="t d">
+<title id="t">Satanshu Mishra</title>
+<desc id="d">Hello, I'm Satanshu Mishra. Full-stack developer. Open-source AI tools. Working toward a career in cybersecurity.</desc>
+<defs>
+<clipPath id="card"><rect x="1" y="1" width="838" height="234" rx="16"/></clipPath>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="48"/></filter>
+</defs>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #e6edf3; }
+.mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+.muted { fill: #9198a1; }
+.a { animation: driftA 9s ease-in-out 2 alternate; }
+.b { animation: driftB 11s ease-in-out 2 alternate; }
+@keyframes driftA { to { transform: translate(-140px, 50px); } }
+@keyframes driftB { to { transform: translate(-90px, -60px); } }
+@keyframes fade { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="1" y="1" width="838" height="234" rx="16" fill="#151b23"/>
+<g clip-path="url(#card)" filter="url(#blur)" opacity="0.40">
+<circle class="a" cx="660" cy="40" r="130" fill="#1f6feb"/>
+<circle class="b" cx="800" cy="210" r="120" fill="#8957e5"/>
+</g>
+<rect x="1" y="1" width="838" height="234" rx="16" fill="none" stroke="#3d444d"/>
+<text x="40" y="56" class="mono muted" font-size="15" style="animation:fade .4s ease-out .1s both">// hello, I'm</text>
+<text x="38" y="108" font-size="46" font-weight="650" letter-spacing="-0.5" style="animation:fade .5s ease-out .3s both">Satanshu Mishra</text>
+<g style="animation:fade .5s ease-out .6s both"><rect x="40" y="170" width="196" height="34" rx="17" fill="#0d1117" fill-opacity=".6" stroke="#3d444d"/><circle cx="59" cy="187" r="4.5" fill="#4493f8"/><text x="72" y="192" font-size="15">Full-stack developer</text><rect x="246" y="170" width="196" height="34" rx="17" fill="#0d1117" fill-opacity=".6" stroke="#3d444d"/><circle cx="265" cy="187" r="4.5" fill="#3fb950"/><text x="278" y="192" font-size="15">Open-source AI tools</text><rect x="452" y="170" width="350" height="34" rx="17" fill="#0d1117" fill-opacity=".6" stroke="#3d444d"/><circle cx="471" cy="187" r="4.5" fill="#ab7df8"/><text x="484" y="192" font-size="15">Working toward a career in cybersecurity</text></g>
+</svg>

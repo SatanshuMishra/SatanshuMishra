@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="218" viewBox="0 0 560 218" role="img" aria-labelledby="t d">
+<title id="t">Get in touch</title>
+<desc id="d">A terminal runs say-hi and prints linkedin.com/in/satanshumishra and satanshumishra@outlook.com.</desc>
+<style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 18px; fill: #e6edf3; }
+.acc { fill: #4493f8; } .acc2 { fill: #ab7df8; }
+.title { font-size: 13px; fill: #9198a1; }
+.cursor { animation: blink 1.1s step-end 2.3s infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+@keyframes cover { from { opacity: 1; transform: translateX(0); } to { opacity: 1; transform: translateX(var(--w)); } }
+@keyframes fade { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="1" y="1" width="558" height="216" rx="12" fill="#151b23" stroke="#3d444d"/>
+<circle cx="24" cy="22" r="6" fill="#ff5f57"/><circle cx="44" cy="22" r="6" fill="#febc2e"/><circle cx="64" cy="22" r="6" fill="#28c840"/>
+<text x="280" y="27" class="title" text-anchor="middle">satanshu@github: ~</text>
+<line x1="1" y1="44" x2="559" y2="44" stroke="#3d444d"/>
+<g style="animation:fade .3s ease-out 0.4s both"><text x="28" y="86" class="acc">$</text></g><text x="50" y="86">./say-hi</text><rect x="49" y="67" width="92" height="28" fill="#151b23" style="opacity:0;animation:cover 0.64s steps(8) 0.7s both;--w:92px"/><g style="animation:fade .3s ease-out 1.6s both"><text x="28" y="120"><tspan class="acc2">→</tspan> <tspan class="acc">linkedin.com/in/satanshumishra</tspan></text></g><g style="animation:fade .3s ease-out 1.8s both"><text x="28" y="150"><tspan class="acc2">→</tspan> <tspan class="acc">satanshumishra@outlook.com</tspan></text></g><g style="animation:fade .3s ease-out 2.3s both"><text x="28" y="190" class="acc">$</text><rect class="cursor" x="50" y="174" width="11" height="21" fill="#4493f8"/></g>
+</svg>
