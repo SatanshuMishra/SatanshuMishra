@@ -62,7 +62,7 @@ Each one works on its own. Together, they carry a change from start to finish.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatanshuMishra/SatanshuMishra/main/assets/terminal-dark.svg">
-  <img src="https://raw.githubusercontent.com/SatanshuMishra/SatanshuMishra/main/assets/terminal-light.svg" width="560" alt="A terminal runs say-hi and prints linkedin.com/in/satanshumishra and satanshumishra@outlook.com.">
+  <img src="https://raw.githubusercontent.com/SatanshuMishra/SatanshuMishra/main/assets/terminal-light.svg" width="840" alt="A terminal runs say-hi and prints linkedin.com/in/satanshumishra and satanshumishra@outlook.com.">
 </picture>
 
 [LinkedIn](https://www.linkedin.com/in/satanshumishra/) · [Email](mailto:satanshumishra@outlook.com)
