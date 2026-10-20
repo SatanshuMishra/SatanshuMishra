@@ -58,10 +58,6 @@ Each one works on its own. Together, they carry a change from start to finish.
 
 `TypeScript` `React` `Next.js` `Node.js` `PostgreSQL` `Supabase` `Python` `FastAPI` `PHP` `Laravel` `Docker` `AWS`
 
-## Off the keyboard
-
-Star Trek, hiking, chess, badminton and a good mystery game.
-
 ## Get in touch
 
 <picture>
